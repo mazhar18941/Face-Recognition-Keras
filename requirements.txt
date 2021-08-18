@@ -1,0 +1,2 @@
+tensorflow-cpu==2.5.0
+opencv-python==4.5.3.56
